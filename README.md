@@ -38,5 +38,5 @@ My research interests include:
 ## 📫 Contact
 
 * Email: `ndy10101@gmail.com`
-* Google Scholar: ``
-* LinkedIn: ``
+* Google Scholar: 
+* LinkedIn: 
